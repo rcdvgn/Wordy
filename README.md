@@ -1,4 +1,4 @@
-<img src="https://raw.githubusercontent.com/rcdvgn/main/src/assets/favicon/favicon.png" alt="Wordy Logo" width= "80" />
+<img src="https://github.com/rcdvgn/Wordy/blob/main/src/assets/favicon/favicon.png?raw=true" alt="Wordy Logo" width= "80" />
 
 # Wordy
 
