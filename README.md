@@ -57,7 +57,7 @@ As for the number of attempts, it remains the same (6) throughout all 4 game dif
 
 - Input word validation: the application does not check whether the inputted word is a valid word in the current language's dictionary.
 
-- Non functional `Share` button serving only as a visual aid.
+- Non functional `Share` button, serving only as a visual aid.
 
 - No integrated keyboard component (to come in future versions).
 
